@@ -6,7 +6,7 @@ import FloorPlan from './FloorPlan';
 function App() {
   return (
     <>
-      <Floorplan />
+      <FloorPlan />
     </>
   )
 }

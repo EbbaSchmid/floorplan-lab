@@ -1,3 +1,4 @@
+import React from 'react'
 import Bath from "./Bath";
 import Bedroom from "./Bedroom";
 import Kitchen from "./Kitchen";
