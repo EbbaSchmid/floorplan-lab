@@ -1,11 +1,14 @@
+import React from 'react';
 import './App.css';
 import FloorPlan from './FloorPlan';
 
 
 function App() {
   return (
-      <FloorPlan />
-  );
+    <>
+      <Floorplan />
+    </>
+  )
 }
 
 export default App;

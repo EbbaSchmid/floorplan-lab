@@ -1,9 +1,11 @@
+import React from 'react'
+
 const Sink = (props) => {
   return (
-    <div id='sink'>
-      Sink
+    <div className="sink">
+      <h4>Sink</h4>
     </div>
   );
 }
- 
+
 export default Sink;

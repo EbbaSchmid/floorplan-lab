@@ -1,3 +1,5 @@
+import React from 'react'
+
 const LivingRoom = (props) => {
   return ( 
     <div id='living-room'>
