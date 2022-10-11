@@ -1,8 +1,7 @@
-import React from 'react'
 
 const Oven = (props) => {
   return (
-    <div className="Oven">
+    <div>
       <h4>Oven</h4>
     </div>
   );
