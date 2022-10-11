@@ -1,9 +1,8 @@
-import React from 'react'
-
 const Bedroom = (props) => {
-  return (
-    <div className="Bedroom" id={`Bed-${props.bedNum}`}>
-      <h3>Bedroom {props.bedNum}</h3>
+  return ( 
+    <div>
+    <h1>Bedroom {props.bedNum}</h1>
+    
     </div>
   );
 }
