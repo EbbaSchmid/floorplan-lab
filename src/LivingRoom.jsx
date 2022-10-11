@@ -1,8 +1,7 @@
-import React from 'react'
 
 const LivingRoom = (props) => {
   return ( 
-    <div id='living-room'>
+    <div>
       <h3>Living Room</h3>
     </div>
   );
